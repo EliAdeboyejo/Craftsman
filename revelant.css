@@ -1,0 +1,18 @@
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+p{
+    color: aliceblue;
+}
+
+body{
+    background-color: brown;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
